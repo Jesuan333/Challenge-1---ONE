@@ -117,7 +117,7 @@ button {
 
 .button-add {
     background-color: var(--color-tertiary);
-    color: var(--color-text);
+    color: white;
     border-radius: 0 25px 25px 0;
 }
 
@@ -128,7 +128,7 @@ button {
 /* Listas */
 ul {
     list-style-type: none;
-    color: var(--color-text);
+    color: black;
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
