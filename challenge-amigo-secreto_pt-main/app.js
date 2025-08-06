@@ -11,7 +11,6 @@ function addAmigos(){
         alert('Insira um nome, por favor.')
         amigos.pop("")
     }
-
 }
 
 function exibirAmigos(){
